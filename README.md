@@ -1,5 +1,6 @@
 ### About
-This code only how example. It doesn't optimize.
+This code only for example. It doesn't optimize.
+Simple Telegram Bot, when you push button SNM/BTC, the bot goes to the exchange and takes data about last price
 
 ### How
 Before starts you need install python3.
